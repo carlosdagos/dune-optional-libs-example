@@ -1,0 +1,5 @@
+(library
+  (optional)
+  (name foo_async)
+  (public_name foo.async)
+  (libraries foo async))

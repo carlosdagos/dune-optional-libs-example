@@ -1,0 +1,4 @@
+(library
+  (name foo_lwt)
+  (public_name foo.lwt)
+  (libraries foo lwt))
